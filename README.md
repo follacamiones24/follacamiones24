@@ -42,11 +42,11 @@
   />
 ```diff
 + hey ~
-@@    Soy @rottioris.                                                                          @@
-@@    Me gusta construir cosas que realmente funcionen — simples, estables y con propósito.    @@
-@@                                                                                             @@
-@@    Trabajo principalmente con JavaScript, HTML, CSS, Python y Java.                         @@
-@@    Suelo moverme entre React, Node y Docker, según el proyecto lo pida.                     @@
+@@   Soy @rottioris.                                                                         @@
+@@   Me gusta construir cosas que realmente funcionen — simples, estables y con propósito.   @@
+@@                                                                                            @@
+@@   Trabajo principalmente con JavaScript, HTML, CSS, Python y Java.                        @@
+@@   Suelo moverme entre React, Node y Docker, según el proyecto lo pida.                    @@
 ```
 
 
